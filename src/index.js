@@ -1,5 +1,5 @@
-const url = 'http://localhost:3000/images/';
-const comments_url = 'http://localhost:3000/comments/'
+const url = 'https://flatagram001.herokuapp.com/images/';
+const comments_url = 'https://flatagram001.herokuapp.com/comments/'
 const likeBtn = document.getElementById('like-button')
 const form = document.querySelector('form')
 let data = ''
